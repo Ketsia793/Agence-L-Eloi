@@ -225,6 +225,7 @@ header a {
 
 .testimonials-elem-text {
   padding: 0 2rem;
+  background: white;
 }
 .testimonials-elem-text p i {
   margin: 0.2rem;
