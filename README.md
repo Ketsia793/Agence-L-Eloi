@@ -5,7 +5,7 @@ J'ai pu décourvrir les possibilités qu'offre CSS et HTML de façon ludique et 
 ces langages. 
 
 ## Caractéristiques
-État du projet : Terminé 
+État du projet : Prototype 
 Nombre de participants : 1 (solo)
 Technologies :  HTML/CSS
 Refactorisation :  Non
