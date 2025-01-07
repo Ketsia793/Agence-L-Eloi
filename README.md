@@ -15,3 +15,6 @@ IDE : VSCode
 OS : Mac 
 ## Utilisation
 S'exécute via https://ketsia793.github.io/Agence-L-Eloi/
+
+## Contributeurs
+* Celinelylou n'est pas contributrice de ce projet, elle était seulement détentrice de mon pc actuel et possédait la même clef SSH que j'ai actuellement. 
