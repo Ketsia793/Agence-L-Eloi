@@ -1,8 +1,8 @@
 **Agence L'Eloi**
 ## À propos
 Ici il s'agit d'un projet d'initation à CSS et HTML, à partir de la création d'un site vitrine d'une agence immobilière de luxe.
-J'ai pu décourvrir les possibilités qu'offre CSS et HTML de façon ludique et dans le cadre d'un de mes tous premiers projets avec 
-ces langages. 
+J'ai pu décourvrir les possibilités qu'offre CSS et HTML de façon ludique et dans le cadre d'un de mes tous premiers projets par 
+le biais de ces langages. 
 
 ## Caractéristiques
 État du projet : Prototype 
